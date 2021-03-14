@@ -4,7 +4,7 @@ I made a spreadsheet and thought I would share in case anyone else wants to use 
 
 ### Shift Booking Spreadsheet
 
-Available [here](Volunteering_Shifts_template.xlsx).
+Available [here](https://github.com/natstar93/SJAVolunteering/raw/master/Volunteering_Shifts_template.xlsx).
 
 A spreadsheet to keep track of shifts you have volunteered for. It is not always easy/possible to find these in the GRS app after you have expressed interest.
 
